@@ -18,6 +18,7 @@ let resumeData = {
       ],
     "aboutme":"Presently a 2nd year student at VIT Vellore. I do backend development in python flask, and I also design for fun. This is my first react app",
     "address":"Bangalore, India",
+    "emailid":"niharikap.gupta2019@vitstudent.ac.in",
     "website":"https://gupta-niharika.github.io/deploy-react/", //hosted
     "education":[
       {
@@ -41,9 +42,10 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"STC-VIT App",
+        "description":"An Android app for our chapter",
+        "imgurl":"images/stc.jpg",
+        "projectlink": "https://bit.ly/StcAppVIT"
       }
     ]    
 }
