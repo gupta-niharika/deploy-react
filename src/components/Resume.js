@@ -49,8 +49,8 @@ export default  class Resume extends Component {
                       // </span>
                       // <em>{item.skillname}</em>
                       // </li>
-                      // <li><em>{item.skillname}</em></li>
-                    <ul>{item.skillname}</ul>
+                      //<li><em>{item.skillname}</em></li>
+                      <h4>{item.skillname} &nbsp; &nbsp;</h4>
                     )
                   })
                   
