@@ -34,10 +34,13 @@ let resumeData = {
         "skillname":"Python - Flask"
       },
       {
-        "skillname":"UI/UX Design"
+        "skillname":"Content Writing"
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Management"
       }
     ],
     "portfolio":[
